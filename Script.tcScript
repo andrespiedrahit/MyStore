@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Creacioncuenta" key="{071978CC-DA75-46B4-8882-88B7553BD555}" path="Creacioncuenta.js" />
+		<child name="Recuperarclave" key="{96C30AB9-17ED-47D8-88B0-4C052E1EFCF1}" path="Recuperarclave.js" />
+		<child name="Buscador" key="{56C50B06-38B2-4DDE-A818-8554502ABDED}" path="Buscador.js" />
+		<child name="ListadoPrendas" key="{B3CAA939-CAD2-4C70-964A-94D8A6544B3B}" path="ListadoPrendas.js" />
+		<child name="Carrito" key="{7D370477-3D90-4C70-8C5C-9630C14880E7}" path="Carrito.js" />
+	</children>
+</Root>
